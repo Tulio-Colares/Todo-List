@@ -1,0 +1,31 @@
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "14.15.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.11.15",
+    "serve": "^11.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tulio-Colares/Lista-de-Tarefas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tulio-Colares/Lista-de-Tarefas/issues"
+  },
+  "homepage": "https://github.com/Tulio-Colares/Lista-de-Tarefas#readme",
+  "description": ""
+}
